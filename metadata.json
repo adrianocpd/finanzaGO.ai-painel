@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FinanzaGo.Ai - Seu Guru Financeiro",
+  "description": "Uma plataforma inteligente de gestão financeira que utiliza IA avançada para analisar seus extratos, categorizar gastos e fornecer consultoria financeira personalizada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
